@@ -1,13 +1,13 @@
-# react install on todolist folder
+### react install on todolist folder
 
-npm create vite@latest
-npm install
-npm install axios react-icons
-npm run dev
+npm create vite@latest <br />
+npm install <br />
+npm install axios react-icons <br />
+npm run dev <br /><br />
 
-# into backend
+### into backend
 
-npm init -y
-npm install express mongoose
-npm install express mongoose cors
-npm install nodemon
+npm init -y <br />
+npm install express mongoose <br />
+npm install express mongoose cors <br />
+npm install nodemon <br />
